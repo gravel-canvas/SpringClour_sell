@@ -1,0 +1,5 @@
+com\canvas\product\com\canvas\product\service\CategoryServiceTest.class
+com\canvas\product\com\canvas\product\com\canvas\product\repository\ProductCategoryRepositoryTest.class
+com\canvas\product\com\canvas\product\service\impl\ProductServiceImplTest.class
+com\canvas\product\ProductApplicationTests.class
+com\canvas\product\com\canvas\product\com\canvas\product\repository\ProductInfoRepositoryTest.class
