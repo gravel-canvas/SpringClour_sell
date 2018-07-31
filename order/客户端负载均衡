@@ -1,0 +1,4 @@
+# 客户端负载均衡(默认轮询)修改(随机)方法  规则结构 IRule
+#PRODUCT:
+#  ribbon:
+#    NIWSServerListClassName: com.netflix.loadbalancer.RandomRule
