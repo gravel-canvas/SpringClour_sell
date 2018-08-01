@@ -7,13 +7,13 @@ spring:
         git:
           uri: https://github.com/gravel-canvas/config-repo
           username: 709127705@qq.com
-          password: zzglxt520..
+          password: 
           basedir: D:\JAVA\IDEA\SpringClour_sell\config\basedir
   rabbitmq:
     host: 172.16.3.52
-#    port: 5672
-#    username: guest
-#    password: guest
+    port: 5672
+    username: guest
+    password: guest
 eureka:
   client:
     service-url:

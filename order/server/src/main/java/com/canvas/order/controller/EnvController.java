@@ -7,17 +7,18 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Author: 宗恣
+<<<<<<< HEAD
  * @Date: 2018/8/1 0001 9:31
  */
-@RestController
 @RefreshScope
+@RestController
 public class EnvController {
 
     @Value("${env}")
     private String env;
 
-    @GetMapping("env")
-    public String env() {
+    @GetMapping("/print")
+    public String print() {
         return env;
     }
 
